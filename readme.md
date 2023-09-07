@@ -1,3 +1,3 @@
 # Git and Githunb Course
 
-Crash cours for Git
+Crash course for Git
